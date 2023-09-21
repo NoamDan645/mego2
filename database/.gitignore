@@ -1,9 +1,8 @@
 *
 !/**/
 
-!*.c
 !.gitignore
-![mM]ake*
+!*.c
 !*.h
 !*.cpp
 !*.hpp
