@@ -1,0 +1,16 @@
+*
+!/**/
+
+!*.c
+!.gitignore
+![mM]ake*
+!*.h
+!*.cpp
+!*.hpp
+!*.json
+!*.html
+!*.py
+!*.js
+!*.css
+
+
